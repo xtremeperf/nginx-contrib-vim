@@ -9,10 +9,9 @@ Install with Pathogen plugin-manager:
 ```
 
 \
-Sourced directly from upstream nginx/nginx mirror:
+Sourced directly from upstream nginx/nginx mirror:\
 https://github.com/nginx/nginx/tree/master/contrib/vim
 
-Using this bash command:
 ```bash
     cp -a nginx/contrib/vim/* nginx-contrib-vim/
 ```
