@@ -6,7 +6,7 @@ Vim plugin to add detection, indent rules and syntax highlighting support for ng
 **Install with Pathogen plugin-manager:** \
 `git clone https://github.com/xtremeperf/nginx-contrib-vim`
 
-<br /><hr /><br />
+<br /><hr />
 
 ***master** branch is sourced directly from upstream nginx/nginx mirror:*\
 https://github.com/nginx/nginx/tree/master/contrib/vim
