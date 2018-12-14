@@ -10,4 +10,4 @@ Vim plugin to add detection, indent rules and syntax highlighting support for ng
 ***master** branch is sourced directly from upstream nginx/nginx mirror:*\
 https://github.com/nginx/nginx/tree/master/contrib/vim
 
-***develop** branch is a clone of master plus a few minor customizations to improve functionality*
+***develop** branch is a clone of master, plus a few minor customizations included to improve functionality*
