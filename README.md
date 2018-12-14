@@ -3,8 +3,10 @@
 Vim plugin to add detection, indent rules and syntax highlighting support for nginx.conf files.
 
 
-**Install with Pathogen plugin-manager:** \
-`git clone https://github.com/xtremeperf/nginx-contrib-vim`
+<span>**Install with Pathogen plugin-manager:** </span>
+```
+git clone https://github.com/xtremeperf/nginx-contrib-vim
+```
 
 <br /><hr />
 
