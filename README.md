@@ -8,11 +8,11 @@ Install with Pathogen plugin-manager:
     git clone https://github.com/xtremeperf/nginx-contrib-vim
 ```
 
-
+\
 Sourced directly from upstream nginx/nginx mirror:
 https://github.com/nginx/nginx/tree/master/contrib/vim
 
-Just like this:
+Using this bash command:
 ```bash
     cp -a nginx/contrib/vim/* nginx-contrib-vim/
 ```
