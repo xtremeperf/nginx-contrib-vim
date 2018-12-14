@@ -1,6 +1,6 @@
 # nginx-contrib-vim
 
-Vim plugin to add detection, indent rules and syntax highlighting support for nginx.conf files.
+Vim plugin to add detection, indent rules and syntax highlighting support for nginx.conf files.<br>
 <br>
 Install with Pathogen plugin-manager:
 ```bash
